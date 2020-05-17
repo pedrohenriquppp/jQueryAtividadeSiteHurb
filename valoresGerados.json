@@ -1,0 +1,82 @@
+[
+    {
+        "nomePacote": "Pacote Lima + Cusco Individual - 2021",
+        "valorPacote": "R$999",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote Orlando + Miami - 2021",
+        "valorPacote": "R$1299",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote Grécia (Atenas + Santorini) - 2021",
+        "valorPacote": "R$2399",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote San Andrés - 2021",
+        "valorPacote": "R$999",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote Cape Town (África do Sul) - 2021",
+        "valorPacote": "R$1999",
+        "porcentagemDesconto": "-60%"
+    },
+    {
+        "nomePacote": "Pacote Las Vegas - 2021",
+        "valorPacote": "R$1290",
+        "porcentagemDesconto": "-55%"
+    },
+    {
+        "nomePacote": "Pacote Orlando - 2021",
+        "valorPacote": "R$1559",
+        "porcentagemDesconto": "-55%"
+    },
+    {
+        "nomePacote": "Pacote Bangkok + Phuket - 2021",
+        "valorPacote": "R$2870",
+        "porcentagemDesconto": "-55%"
+    },
+    {
+        "nomePacote": "Pacote Cartagena + San Andrés Individual - 2021",
+        "valorPacote": "R$999",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote Playa del Carmen - 2021",
+        "valorPacote": "R$1299",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote Santiago + Mendoza Individual - 2021",
+        "valorPacote": "R$999",
+        "porcentagemDesconto": "-30%"
+    },
+    {
+        "nomePacote": "Pacote Amsterdam - 2021",
+        "valorPacote": "R$1999",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote Maceió + Maragogi + Porto de Galinhas + Gunga - 2020",
+        "valorPacote": "R$1399",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote Fortaleza + Jericoacoara + Canoa Quebrada - 2020",
+        "valorPacote": "R$1519",
+        "porcentagemDesconto": "-50%"
+    },
+    {
+        "nomePacote": "Pacote Gramado/Canela - 2020",
+        "valorPacote": "R$629",
+        "porcentagemDesconto": "-54%"
+    },
+    {
+        "nomePacote": "Pacote Amsterdam + Londres + Berlim - 2020",
+        "valorPacote": "R$7739",
+        "porcentagemDesconto": "-50%"
+    }
+]
